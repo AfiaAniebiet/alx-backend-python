@@ -1,8 +1,11 @@
 #!/usr/bin/env python3
 
 """
-An asynchronous coroutine that takes in an integer argument with a default value of 10.
-It waits for a random delay between 0 and max_delay and eventually returns the  max_delay.
+An asynchronous coroutine that takes 
+in an integer argument with a default 
+value of 10.It waits for a random delay 
+between 0 and max_delay and eventually 
+returns the  max_delay.
 """
 
 import asyncio
